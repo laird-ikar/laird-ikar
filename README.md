@@ -1,7 +1,15 @@
-meh
+I'm Ikar, I'm 21
 
-i'll maybe write a true README someday
+I'm a candidate at 42
 
-not probable tho
+I'm learning
+- C
+- C++
+- Shell
+- JAVA
+- HTML
+- CSS
+- Javascript
+- some more that i forgot about
 
-i prefere coding over selling my code
+Currently bored af and doing C projects to pass time
