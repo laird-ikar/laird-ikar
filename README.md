@@ -4,12 +4,7 @@ I'm a candidate at 42
 
 I'm learning
 - C
-- C++
 - Shell
-- JAVA
-- HTML
-- CSS
-- Javascript
-- some more that i forgot about
+- (actually more, but i might do nothing in the rest for a while, so i'll update if it's usefull)
 
 Currently bored af and doing C projects to pass time
