@@ -4,6 +4,7 @@ I'm a candidate at 42
 
 I'm learning
 - C
+- JAVA
 - Shell
 - (actually more, but i might do nothing in the rest for a while, so i'll update if it's usefull)
 
