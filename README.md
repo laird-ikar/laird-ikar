@@ -32,9 +32,7 @@ I am a student at @42born2code.<br>I am currently working on ft_transcendence wi
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=laird-ikar&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=laird-ikar&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laird-ikar&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div style="display:flex;"><img height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=laird-ikar&theme=midnight-purple&hide_border=true"/><img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laird-ikar&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/></div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laird-ikar&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
