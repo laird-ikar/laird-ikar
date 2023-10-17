@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at [@42School](https://github.com/42School).<br>I am currently working on ft_transcendence with [@Link-Wolf](https://github.com/Link-Wolf).<br>I am casually doing some CTF on a side and working on my cybersecurity skills.
+I am a student at [@42School](https://github.com/42School).<br>I am currently working on lem_in with [@Link-Wolf](https://github.com/Link-Wolf).<br>I am casually doing some CTF on the side and working on my cybersecurity skills.
 
 
 
