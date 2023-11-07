@@ -35,7 +35,7 @@ I am a student at [@42School](https://github.com/42School).<br>I am currently wo
 <div style="display:flex;"><img height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=laird-ikar&theme=midnight-purple&hide_border=true"/><img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laird-ikar&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/></div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=laird-ikar&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+![]([https://github-profile-trophy.vercel.app/?username=laird-ikar&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=laird-ikar&column=3&no-frame=true&no-bg=true&theme=flat))
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
