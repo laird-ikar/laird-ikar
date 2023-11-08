@@ -1,9 +1,5 @@
 # 🧑 Who am I ?
-I am a student at [@42school](https://github.com/42School).
-
-I am a CTF enjoyer.
-
-I am a developper.
+I am a student at [@42school](https://github.com/42School), a CTF enjoyer and a developper.
 
 # 🧑‍💻 What am I currently working on ?
 - 🐜 I am working on the `lem_in` 42 project  with [@Link](https://github.com/Link-Wolf)
