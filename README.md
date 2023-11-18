@@ -2,7 +2,7 @@
 I am a student at [@42school](https://github.com/42School), a CTF enjoyer and a developper.
 
 # 🧑‍💻 What am I currently working on ?
-- 🐜 The `scop` 42 project
+- 🐜 The `scop` and the `libasm` 42 projects
 - 🤖 [rex](https://github.com/laird-ikar/rex), a Discord bot.
 - 🌐 On creating my website.
 
