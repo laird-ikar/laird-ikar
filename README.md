@@ -186,9 +186,10 @@ I am a student at [@42school](https://github.com/42School), a CTF enjoyer and a 
 </p>
 
 # 🏆 Some stats prensented in a funny way:
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laird-ikar&include_all_commits=true&bg_color=90,5c34ff,ff1919,ff1919&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=laird-ikar&bg_color=90,5c34ff,ff1919,ff1919&text_color=ffffff&title_color=ffffff&icon_color=ffffff&show_icons=true&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laird-ikar&bg_color=90,5c34ff,ff1919,ff1919&text_color=ffffff&title_color=ffffff&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide_border=true" />
